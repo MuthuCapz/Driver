@@ -73,7 +73,7 @@
                         android:layout_marginTop="8dp"
                         android:fontFamily="@font/nunito"
                         android:textColor="@color/navyBlue"
-                        android:text="12 km" />
+                        android:text="15 km" />
                 </LinearLayout>
 
             </LinearLayout>
